@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "creating web cam", "creating web cam\creating web cam.pyproj", "{1238DB9F-593D-48B2-806C-BF34552EA830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1238DB9F-593D-48B2-806C-BF34552EA830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1238DB9F-593D-48B2-806C-BF34552EA830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5802AF5-DE3F-4193-AF92-27E85C3F85AC}
+	EndGlobalSection
+EndGlobal
